@@ -1,11 +1,11 @@
-# ⚡ EnerLink
+#  EnerLink
 
 > Decentralized Smart ISP Switching + Unified Payment Gateway  
 > Built on Solana. Designed for Africa. Powered by Web3.
 
 ---
 
-## 🌍 Overview
+##  Overview
 
 EnerLink is a decentralized, smart-switching internet service layer that automatically connects users to the best-performing ISP (MTN or Airtel) based on real-time signal strength — without SIM swaps.
 
@@ -13,7 +13,7 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 
 ---
 
-## 🎯 Bounty Track Alignment
+##  Bounty Track Alignment
 
 - ✅ **Nouns** – ENS + IPFS Frontends  
 - ✅ **Protocol Labs** – Decentralized Hosting & Fresh Code  
@@ -21,26 +21,26 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
-### 🔀 Smart ISP Switching Engine  
+###  Smart ISP Switching Engine  
 - Monitors signal strength in real time  
 - Automatically switches to stronger ISP (MTN or Airtel)  
 - Powered by backend logic + automation bots
 
-### 💳 Unified Blockchain Payment  
+###  Unified Blockchain Payment  
 - One-time crypto payment covers multiple ISPs  
 - Pay-per-KB logic tracked onchain  
 - Smart contracts built with Anchor on **Solana**
 
-### 🔐 Decentralized UI  
+###  Decentralized UI  
 - Hosted on IPFS via Web3.Storage  
 - Accessible via ENS: `enerlinklab.eth`  
 - No central servers or domains
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Layer            | Stack / Tools               |
 |------------------|-----------------------------|
@@ -54,7 +54,7 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 
 ---
 
-## 🛠 Architecture Overview
+##  Architecture Overview
 
 ```plaintext
 [User Wallet]
