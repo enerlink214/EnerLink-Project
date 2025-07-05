@@ -73,7 +73,7 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 
 ---
 
-##  **Getting Started**
+##  Getting Started**
 
 Coming soon: detailed setup instructions for local dev, testnet interaction, and switching simulation.
 
