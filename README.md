@@ -21,55 +21,32 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 
 ---
 
-##  Key Features
+##  Problem and Opportunity 
 
-###  Smart ISP Switching Engine  
-- Monitors signal strength in real time  
-- Automatically switches to stronger ISP (MTN or Airtel)  
-- Powered by backend logic + automation bots
+In many African markets users juggle through multiple SIM cards and unreliable data plans just to stay online. This results in:
+- Manual SIM switching 
+- Poor user experience during signal outage 
+- Wasted data and increased costs 
 
-###  Unified Blockchain Payment  
-- One-time crypto payment covers multiple ISPs  
-- Pay-per-KB logic tracked onchain  
-- Smart contracts built with Anchor on **Solana**
+Over 50% os users in target regions lacks access to seamless, failover-ready connectivity.
 
-###  Decentralized UI  
-- Hosted on IPFS via Web3.Storage  
+---
+
+##  Solution overview: EnerLink 
+
+EnerLink is a decentralized smart ISP switching protocol that: 
+- Automatically connects users to the strongest local network (e.g.,MTN vs. AIRTEL)
+- Enables tokenized, pay-per-KB billing via Solana smart contracts
+- Hosts the frontend on IPFS and resolves with ENF for censorship resistance. 
+
+--- 
+
+##  Prototype Highlights 
+
+###  Smart ISP switching Engine 
+-  
 - Accessible via ENS: `enerlinklab.eth`  
 - No central servers or domains
-
----
-
-##  Tech Stack
-
-| Layer            | Stack / Tools               |
-|------------------|-----------------------------|
-| Smart Contracts  | Rust, Solana, Anchor        |
-| Frontend         | React, Next.js, Tailwind    |
-| Backend          | NestJS (Node.js), REST APIs |
-| Hosting          | IPFS via web3.storage       |
-| Domain           | ENS: `enerlinklab.eth`      |
-| Wallet           | MetaMask, Ethers.js         |
-| Design           | Figma (Hi-Fi, Lo-Fi)        |
-
----
-
-##  Architecture Overview
-
-
-[User Wallet]
-     ↓
-[ENS: enerlinklab.eth]
-     ↓
-[IPFS Frontend] ←→ [NestJS Backend] ←→ [MTN / Airtel APIs]
-                          ↓
-                [Solana Smart Contracts]
-
-•  Smart contracts handle pay-per-KB access
-
-• Backend checks ISP metrics and controls switching
-
-• Frontend is censorship-resistant and sovereign
 
 ---
 
