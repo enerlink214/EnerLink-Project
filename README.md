@@ -70,3 +70,5 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 • Backend checks ISP metrics and controls switching
 
 • Frontend is censorship-resistant and sovereign
+
+---
