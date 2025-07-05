@@ -44,9 +44,6 @@ EnerLink is a decentralized smart ISP switching protocol that:
 ##  Prototype Highlights 
 
 ###  Smart ISP switching Engine 
--  
-- Accessible via ENS: `enerlinklab.eth`  
-- No central servers or domains
 
 ---
 
