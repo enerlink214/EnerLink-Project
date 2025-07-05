@@ -37,7 +37,7 @@ This file outlines how EnerLink aligns with different hackathon bounty tracks an
 
 ---
 
-## ✅ Summary
+##  Summary
 
 EnerLink is a strong multi-track submission, built for impact:
 
