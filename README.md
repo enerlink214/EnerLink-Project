@@ -105,11 +105,11 @@ Contract deployment and backend setup instructions will be added once Solana tes
 
 Team
 
-| Name	              | Role           
+| Name               | Role           
 |--------------------|------------------
 | Ola Cryptonite     | Visionary Leader 
 | Chiwill            | Project Manager/ Technical Writer 
 | Defi D'Boss        | Lead Developer 
 | Gnf Josh           | Product Designer 
-| Dan Alex.          | Research Lead 
+| Dan Alex           | Research Lead 
 
