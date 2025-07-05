@@ -113,3 +113,8 @@ Contract deployment and backend setup instructions will be added once Solana tes
 | Gnf Josh           | Product Designer 
 | Dan Alex           | Research Lead 
 
+---
+
+## License
+
+This project is open-sourced under the MIT License 
