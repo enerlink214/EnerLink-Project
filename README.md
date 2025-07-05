@@ -74,19 +74,19 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 
 ---
 
-##  Getting Started
+  **Getting Started**
 
 Coming soon: detailed setup instructions for local dev, testnet interaction, and switching simulation.
 
 To test EnerLink locally:
 
 ```bash
-# 1. Clone the frontend
+**1.** Clone the frontend
 git clone https://github.com/your-org/frontend-repo.git
 cd frontend-repo
 
-# 2. Install dependencies
+**2.** Install dependencies
 npm install
 
-# 3. Run locally
+**3.** Run locally
 npm run dev
