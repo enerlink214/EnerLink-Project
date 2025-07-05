@@ -103,7 +103,7 @@ Contract deployment and backend setup instructions will be added once Solana tes
 
 ---
 
-Team
+##  Team
 
 | Name               | Role           
 |--------------------|------------------
