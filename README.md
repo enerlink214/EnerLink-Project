@@ -88,3 +88,28 @@ npm install
 
  3. Run locally
 npm run dev
+
+Contract deployment and backend setup instructions will be added once Solana testnet deployment is live.
+
+---
+
+## Repositories
+
+1.Frontend →
+
+2.Backend →
+
+3.Contracts →
+
+---
+
+Team
+
+| Name	              | Role           
+|--------------------|------------------
+| Ola Cryptonite     | Visionary Leader 
+| Chiwill            | Project Manager/ Technical Writer 
+| Defi D'Boss        | Lead Developer 
+| Gnf Josh           | Product Designer 
+| Dan Alex.          | Research Lead 
+
