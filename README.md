@@ -56,7 +56,7 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 
 ##  Architecture Overview
 
-```plaintext
+
 [User Wallet]
      ↓
 [ENS: enerlinklab.eth]
