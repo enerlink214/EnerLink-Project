@@ -15,9 +15,9 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 
 ##  Bounty Track Alignment
 
-- ✅ **Nouns** – ENS + IPFS Frontends  
-- ✅ **Protocol Labs** – Decentralized Hosting & Fresh Code  
-- ✅ **Wildcard** – Secure, Sovereign Systems
+-  **Nouns** – ENS + IPFS Frontends  
+-  **Protocol Labs** – Decentralized Hosting & Fresh Code  
+-  **Wildcard** – Secure, Sovereign Systems
 
 ---
 
