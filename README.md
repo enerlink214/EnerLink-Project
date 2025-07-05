@@ -120,93 +120,17 @@ Contract deployment and backend setup instructions will be added once Solana tes
 This project is open-sourced under the MIT License
 
 
+---
 
+## Contact
+
+- Email: Enerlink088@gmail.com
+
+- ENS: enerlinklab.eth
 
 ---
 
-
-Absolutely, Chiwill — here’s the full section from “Getting Started” to the very end, all wrapped in one copy-paste Markdown code block:
-
+Let’s make decentralized internet real in Africa. 
 
 ---
-
-✅ Paste-ready Markdown (From "Getting Started" onward)
-
----
-
-## 🚀 Getting Started
-
-Coming soon: detailed setup instructions for local dev, testnet interaction, and switching simulation.
-
-To test EnerLink locally:
-
-```bash
-# 1. Clone the frontend
-git clone https://github.com/your-org/frontend-repo.git
-cd frontend-repo
-
-# 2. Install dependencies
-npm install
-
-# 3. Run locally
-npm run dev
-
-Contract deployment and backend setup instructions will be added once Solana testnet deployment is live.
-
-
----
-
-📂 Repositories
-
-Frontend → github.com/your-org/frontend-repo
-
-Backend → github.com/your-org/backend-repo
-
-Contracts → github.com/your-org/contract-repo
-
-
-(Replace with actual links once the repos are public.)
-
-
----
-
-👥 Team
-
-Name	Role
-
-Chiwill	Project Manager & Writer
-Gnf Josh	Product Designer
-Ola	Project Lead & Strategist
-Dan Alex	Research Lead
-Malik	Co-Researcher
-TeeBhoy	Social Media & Community
-
-
-
----
-
-📜 License
-
-This project is open-sourced under the MIT License.
-
-
----
-
-✨ Contact
-
-📧 Email: creedtechgroup@gmail.com
-
-🌐 ENS: enerlinklab.eth
-
-
-
----
-
-Let’s make decentralized internet real. 🌍⚡
-
----
-
-You're all set, bro. Just paste this after the "Getting Started" header in your README and you're done with it 100%.
-
-Ready for the next file? `technical_spec.md` or want to finish setting up visuals?
 
