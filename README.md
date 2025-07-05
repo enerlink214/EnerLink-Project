@@ -71,3 +71,9 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 
 • Frontend is censorship-resistant and sovereign
 
+
+―――
+
+## Getting Started 
+
+Coming soon: detailed setup instructions for local dev, testnet interaction, and switching simulation.
