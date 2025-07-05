@@ -64,3 +64,9 @@ With one blockchain-based payment, users unlock seamless access to multiple ISPs
 [IPFS Frontend] ←→ [NestJS Backend] ←→ [MTN / Airtel APIs]
                           ↓
                 [Solana Smart Contracts]
+
+Smart contracts handle pay-per-KB access
+
+Backend checks ISP metrics and controls switching
+
+Frontend is censorship-resistant and sovereign
