@@ -45,4 +45,3 @@ EnerLink is a strong multi-track submission, built for impact:
 - Blockchain-native payment logic  
 - DePIN + connectivity innovation  
 - Clean modular architecture
-- 
