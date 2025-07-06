@@ -20,7 +20,7 @@ Meet the EnerLink Team — builders, thinkers, and doers working to unlock decen
 
 ---
 
-### 🧾 Chiwill  
+###  Chiwill  
 **Role:** Technical Writer / PM  
 **X:** [@Big_Frank001](https://x.com/Big_Frank001)  
 **Discord:** chiwill0225
