@@ -28,7 +28,7 @@ In many African markets users juggle through multiple SIM cards and unreliable d
 - Poor user experience during signal outage 
 - Wasted data and increased costs 
 
-Over 50% os users in target regions lacks access to seamless, failover-ready connectivity.
+Over 50% of users in target regions lacks access to seamless, failover-ready connectivity.
 
 ---
 
