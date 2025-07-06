@@ -1,1 +1,7 @@
+EnerLink is a decentralized Internet access platform that enables users to automatically switch between mobile network providers (e.g. MTN and Airtel) based on real-time signal strength, while paying for data usage through a unified blockchain-based billing system.
 
+The project addresses the connectivity gap in Africa, where users often suffer from unstable internet, manual SIM swaps, and high data costs. EnerLink eliminates these issues by introducing a smart backend system that monitors network performance and triggers automated switching without any physical action from the user.
+
+Built using Solana smart contracts (via Anchor), a React + NestJS app stack, and decentralized infrastructure (ENS + IPFS), EnerLink also supports tokenized pay-per-KB billing, real-time usage logging, and full frontend decentralization.
+
+This makes EnerLink one of the first modular middleware solutions bridging users, ISPs, and Web3 — built to promote sovereignty, transparency, and accessibility in underserved regions.
