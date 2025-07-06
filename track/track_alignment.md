@@ -1,6 +1,6 @@
 #  track_alignment.md
 
-This file outlines how EnerLink aligns with different hackathon bounty tracks and their goals.
+This file outlines how EnerLink aligns with PL_Genesis Hackathon different bounty tracks and their goals.
 
 ---
 
